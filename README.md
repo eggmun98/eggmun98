@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요 프론트엔드 개발자 문성진입니다. 👋
 
 <!--
 **eggmun98/eggmun98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
