@@ -18,11 +18,6 @@ Here are some ideas to get you started:
   
 ![header](https://capsule-render.vercel.app/api?type=transparent&&fontColor=AAC4FF&height=100&section=header&text=SengJin%20Mun&fontSize=44&desc=Web%20Frontend%20Developer&descAlignY=80&descAlign=60&descSize=10&descColor=ffffff)
 
-
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=eggmun98&theme=santorini)](https://eggmun98.tistory.com/)
-
-
-  
 <!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eggmun)](https://velog.io/@eggmun)  -->
 
 ![SeongJinMun's Github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eggmun98)
