@@ -1,28 +1,16 @@
-<!--
-**eggmun98/eggmun98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![velog]()
+<img src="https://komarev.com/ghpvc/?username=eggmun98&label=Profile%20views&color=2563eb&style=flat" alt="eggmun" />
 
-Here are some ideas to get you started:
+## Eggmun (문성진)
+### 기술의 본질을 탐구하며, 개발 자체를 좋아하는 개발자입니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-<div align="center" bgColor="#ECCCC1">
-  
-![header](https://capsule-render.vercel.app/api?type=transparent&&fontColor=AAC4FF&height=100&section=header&text=SengJin%20Mun&fontSize=44&desc=Web%20Frontend%20Developer&descAlignY=80&descAlign=60&descSize=10&descColor=ffffff)
+* [NPM](https://www.npmjs.com/~eggmun)
+* [링크드인](www.linkedin.com/in/eggmun)
+* [블로그](https://eggmun.com)
 
-<!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eggmun)](https://velog.io/@eggmun)  -->
 
-![SeongJinMun's Github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eggmun98)
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api?username=eggmun98&show_icons=true&title_color=000000&text_color=000000&locale=en&hide_border=true" alt="eggmun" />
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=eggmun98&show_icons=true&title_color=000000&text_color=000000&locale=en&layout=compact&hide_border=true" alt="eggmun98" />  
 
- </div>
+
+
+
