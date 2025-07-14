@@ -5,7 +5,7 @@
 
 
 * [NPM](https://www.npmjs.com/~eggmun)
-* [링크드인](www.linkedin.com/in/eggmun)
+* [링크드인](https://www.linkedin.com/in/eggmun)
 * [블로그](https://eggmun.com)
 
 
