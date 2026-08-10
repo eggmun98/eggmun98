@@ -10,9 +10,10 @@
 오픈소스를 통해 문제를 해결하고, 개발자들의 생산성을 높이는 프론트엔드 개발자입니다.
 
 
-* [NPM](https://www.npmjs.com/~eggmun)
 * [링크드인](https://www.linkedin.com/in/eggmun)
 * [블로그](https://eggmun.com)
+* [NPM](https://www.npmjs.com/~eggmun)
+* [링크트리](https://linktr.ee/eggmun98)
 
 
 
