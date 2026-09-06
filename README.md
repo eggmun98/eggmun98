@@ -13,6 +13,7 @@
 * [링크드인](https://www.linkedin.com/in/eggmun)
 * [블로그](https://eggmun.com)
 * [NPM](https://www.npmjs.com/~eggmun)
+* [VS Code Extension](https://marketplace.visualstudio.com/publishers/eggmun)
 * [링크트리](https://linktr.ee/eggmun98)
 
 
